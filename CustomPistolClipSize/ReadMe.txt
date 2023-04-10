@@ -1,0 +1,1 @@
+﻿Documentations of this mod are mainly in the configuration files.
