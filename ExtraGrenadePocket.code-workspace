@@ -7,5 +7,7 @@
 			"path": "F:/SteamLibrary/steamapps/common/XCOM 2 War of the Chosen SDK/Development/SrcOrig"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"powershell.cwd": "c:\\Users\\elbe\\Documents\\Firaxis ModBuddy\\XCOM\\ExtraGrenadePocket"
+	}
 }
